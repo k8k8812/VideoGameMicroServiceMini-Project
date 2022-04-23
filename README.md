@@ -7,7 +7,7 @@
 </div>
 
   <ul>
-    - [x]Created a SpringBoot App with the dependencies (Spring web, Spring-Data-JPA, MySQL Driver)
+    <li>Created a SpringBoot App with the dependencies (Spring web, Spring-Data-JPA, MySQL Driver)</li>
     <li> Created an Entity class for VideoGame</li>
     <li>Created a JPA Repository for the Video Game class</li>
     <li>Added findByPublisher into VideoGame Repository </li>
