@@ -1,5 +1,5 @@
 
-# VideoGameMicroServiceMini-Project 😃
+# VideoGameMicroServiceMini-Project 
 
 ```ruby 
 SpingBoot Exercise: VideoGame MicroService Mini-Project 
